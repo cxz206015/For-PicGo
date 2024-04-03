@@ -1,1 +1,1 @@
-# PicGo
+# PicGo图床
